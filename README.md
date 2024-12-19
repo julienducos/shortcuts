@@ -5,6 +5,7 @@ For any feedback, feel free to send me an email: julien [at] jucos [dot] fr
 
 
 **Battery cycles:**
+
 A shortcut that lets you check the number of battery cycles on your iPhone/iPad.
 
 Procedure
