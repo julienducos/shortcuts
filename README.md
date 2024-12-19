@@ -65,6 +65,8 @@ Just tap the share icon in Safari or in your favorite Mastodon client then tap "
 Have a conversation with ChatGPT!
 This shortcut allows you to ask questions to ChatGPT as you would with Siri... but in different!
 
+--
+
 **→ ~ [whats.my.ip](https://www.icloud.com/shortcuts/bbbad575627e4c75a2821efac4f19580)**
 
 A shortcut that allows you to get and copy your different IP addresses
