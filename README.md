@@ -3,8 +3,9 @@ A repo where you can find all my shortcuts (also avalaible on [JuCos.fr](https:/
 
 For any feedback, feel free to send me an email: **julien [at] jucos [dot] fr**
 
+--
 
-**[Battery cycles](https://www.icloud.com/shortcuts/87e11417918541df9f3c69997318760e)**
+**→ ~ [Battery cycles](https://www.icloud.com/shortcuts/87e11417918541df9f3c69997318760e)**
 
 A shortcut that lets you check the number of battery cycles on your iPhone/iPad.
 
@@ -13,3 +14,18 @@ Settings > Privacy & Security > Analytics & Improvements > Analytics Data > Anal
 Tap the share button and select "Battery cycles".
 
 NB: <em>"Analytics-XX" files are only generated if you share the analysis data with Apple.</em>
+
+--
+
+**→ ~ [Reboot your Mac](https://www.icloud.com/shortcuts/b9df1b8720134d38a52103f5f56bd03c)**
+
+A very simple Shortcut to reboot your Mac with a keyboard shortcut (^+⌥+R in my case)
+
+--
+
+**→ ~ [Shutdown your Mac](https://www.icloud.com/shortcuts/7d2ff3708c374747b516f896ec115fc3)**
+
+A very simple Shortcut to shutdown your Mac with a keyboard shortcut (^+⌥+Q in my case)
+
+--
+
