@@ -15,19 +15,19 @@ Tap the share button and select "Battery cycles".
 
 NB: <em>"Analytics-XX" files are only generated if you share the analysis data with Apple.</em>
 
---
+---
 
 **→ ~ [Reboot your Mac](https://www.icloud.com/shortcuts/b9df1b8720134d38a52103f5f56bd03c)**
 
 A very simple Shortcut to reboot your Mac with a keyboard shortcut (^+⌥+R in my case)
 
---
+---
 
 **→ ~ [Shutdown your Mac](https://www.icloud.com/shortcuts/7d2ff3708c374747b516f896ec115fc3)**
 
 A very simple Shortcut to shutdown your Mac with a keyboard shortcut (^+⌥+Q in my case)
 
---
+---
 
 **→ ~ [Rates including VAT](https://www.icloud.com/shortcuts/d3b833680c6d4c649a6fade39f3397e9)**
 
@@ -35,7 +35,7 @@ This shortcut simply allows you to calculate tax including rates from a tax free
 
 NB: I used a little workaround to avoid a bug in Shortcuts app on iOS/iPadOS: if a comma (,) is entered in the "Rate without taxes" field via the numeric keypad: Shortcuts will return an error. The "Calculate expression" command actually expects a dot (.)
 
---
+---
 
 **→ ~ [Add to my wishlist](https://www.icloud.com/shortcuts/aef4e276587a48668e1e7521836e863c)**
 
@@ -46,7 +46,7 @@ It is of course possible to record this in a note or in a reminders list via the
 Again: Shortcut is a very elegant solution to do exactly what you want.
 This shortcut allows you to save all the necessary details of an app (name, weight, price, in-app purchase, link) in a reminder list of your choice.
 
---
+---
 
 **→ ~ [MastoNewsWire](https://www.icloud.com/shortcuts/3d0d0cfeff144c2d8c24583603d10c52)**
 
@@ -58,14 +58,14 @@ Something that it is therefore quite simple to do with Shortcuts 🥰.
 So here it is.
 Just tap the share icon in Safari or in your favorite Mastodon client then tap "MastoNewsWire".
 
---
+---
 
 **→ ~ [ShortGPT](https://www.icloud.com/shortcuts/498df0617da247eb955247765489f495)**
 
 Have a conversation with ChatGPT!
 This shortcut allows you to ask questions to ChatGPT as you would with Siri... but in different!
 
---
+---
 
 **→ ~ [whats.my.ip](https://www.icloud.com/shortcuts/bbbad575627e4c75a2821efac4f19580)**
 
