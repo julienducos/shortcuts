@@ -77,3 +77,12 @@ A tap or a click on one of the results will copy the item to the clipboard ;)
 
 NB: <em>A bug on older versions of iOS/iPadOS and macOS prevents Shortcuts from getting the external IPv6.‌
 A workaround for these versions has been found: use the API of https//ip6.me.</em>
+
+---
+
+**→ ~ [Save an app icon from the App Store](https://www.icloud.com/shortcuts/8302c5a904f14def91317c8c378df6aa)**
+
+**A shortcut that allows you to save an app icon from the App Store**
+
+The purpose of this shortcut is to allow you, directly from Shortcuts, to search for an app by its name and to save its icon in your photo library. [works both on iOS, iPadOS and macOS]
+It's that simple!
