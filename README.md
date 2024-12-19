@@ -1,5 +1,5 @@
-# Shortcuts
-A repo where you can find all my shortcuts (also avalaible on [JuCos.fr](https://jucos.fr/))
+## Shortcuts
+**A repo where you can find all my shortcuts (also avalaible on [JuCos.fr](https://jucos.fr/))**
 
 For any feedback, feel free to send me an email: **julien [at] jucos [dot] fr**
 
@@ -7,7 +7,7 @@ For any feedback, feel free to send me an email: **julien [at] jucos [dot] fr**
 
 **→ ~ [Battery cycles](https://www.icloud.com/shortcuts/87e11417918541df9f3c69997318760e)**
 
-A shortcut that lets you check the number of battery cycles on your iPhone/iPad.
+**A shortcut that lets you check the number of battery cycles on your iPhone/iPad.**
 
 Procedure
 Settings > Privacy & Security > Analytics & Improvements > Analytics Data > Analytics-...
@@ -62,14 +62,15 @@ Just tap the share icon in Safari or in your favorite Mastodon client then tap "
 
 **→ ~ [ShortGPT](https://www.icloud.com/shortcuts/498df0617da247eb955247765489f495)**
 
-Have a conversation with ChatGPT!
+**Have a conversation with ChatGPT!**
+
 This shortcut allows you to ask questions to ChatGPT as you would with Siri... but in different!
 
 ---
 
 **→ ~ [whats.my.ip](https://www.icloud.com/shortcuts/bbbad575627e4c75a2821efac4f19580)**
 
-A shortcut that allows you to get and copy your different IP addresses
+**A shortcut that allows you to get and copy your different IP addresses**
 
 Whether I'm configuring my home network, setting up my (reverse-)proxy or opening certain ports on my Internet box, I often need to know the local IP or external IP assigned to me.‌‌If you have to do this kind of thing you will be happy to know that Shortcuts allows you to get this information quickly (without having to go to the Settings or the Internet).‌‌This shortcut displays your different IP addresses (local and external, IPv4 and IPv6).‌‌
 
