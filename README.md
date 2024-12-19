@@ -11,4 +11,4 @@ Procedure
 Settings > Privacy & Security > Analytics & Improvements > Analytics Data > Analytics-...
 Tap the share button and select "Battery cycles".
 
-NB: "Analytics-XX" files are only generated if you share the analysis data with Apple.
+NB: <em>"Analytics-XX" files are only generated if you share the analysis data with Apple.</em>
