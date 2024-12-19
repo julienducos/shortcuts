@@ -1,7 +1,7 @@
 # Shortcuts
 A repo where you can find all my shortcuts
 
-For any feedback, feel free to send me an email: julien [at] jucos [dot] fr
+For any feedback, feel free to send me an email: **julien [at] jucos [dot] fr**
 
 
 **[Battery cycles](https://www.icloud.com/shortcuts/87e11417918541df9f3c69997318760e)**
