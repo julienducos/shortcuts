@@ -1,7 +1,7 @@
 # Shortcuts
 A repo where you can find all my shortcuts
 
-For any feedback, feel free to send me an email: jducos [at] protonmail [dot] ch
+For any feedback, feel free to send me an email: julien [at] jucos [dot] fr
 
 
 **Battery cycles:**
