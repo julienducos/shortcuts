@@ -16,16 +16,19 @@ Tap the share button and select "Battery cycles".
 NB: <em>"Analytics-XX" files are only generated if you share the analysis data with Apple.</em>
 
 --
+
 **→ ~ [Reboot your Mac](https://www.icloud.com/shortcuts/b9df1b8720134d38a52103f5f56bd03c)**
 
 A very simple Shortcut to reboot your Mac with a keyboard shortcut (^+⌥+R in my case)
 
 --
+
 **→ ~ [Shutdown your Mac](https://www.icloud.com/shortcuts/7d2ff3708c374747b516f896ec115fc3)**
 
 A very simple Shortcut to shutdown your Mac with a keyboard shortcut (^+⌥+Q in my case)
 
 --
+
 **→ ~ [Rates including VAT](https://www.icloud.com/shortcuts/d3b833680c6d4c649a6fade39f3397e9)**
 
 This shortcut simply allows you to calculate tax including rates from a tax free rate.At the first launch, you will be asked to specify the tax rate applied in your country.You can place this shortcut as a widget on the home screen or on the left page of your iPhone/iPad or in the menu bar of macOS :)
