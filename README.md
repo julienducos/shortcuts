@@ -13,3 +13,5 @@ Settings > Privacy & Security > Analytics & Improvements > Analytics Data > Anal
 Tap the share button and select "Battery cycles".
 
 NB: <em>"Analytics-XX" files are only generated if you share the analysis data with Apple.</em>
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
