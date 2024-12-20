@@ -1,5 +1,5 @@
 ### Shortcuts
-**A repo where you can find all my shortcuts (also avalaible on [JuCos.fr](https://jucos.fr/))**
+# A repo where you can find all my shortcuts (also avalaible on [JuCos.fr](https://jucos.fr/))
 
 For any feedback, feel free to send me an email: **julien [at] jucos [dot] fr**
 
