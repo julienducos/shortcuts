@@ -33,7 +33,7 @@ A very simple Shortcut to shutdown your Mac with a keyboard shortcut (^+⌥+Q in
 
 This shortcut simply allows you to calculate tax including rates from a tax free rate.At the first launch, you will be asked to specify the tax rate applied in your country.You can place this shortcut as a widget on the home screen or on the left page of your iPhone/iPad or in the menu bar of macOS :)
 
-NB: I used a little workaround to avoid a bug in Shortcuts app on iOS/iPadOS: if a comma (,) is entered in the "Rate without taxes" field via the numeric keypad: Shortcuts will return an error. The "Calculate expression" command actually expects a dot (.)
+NB: <em>I used a little workaround to avoid a bug in Shortcuts app on iOS/iPadOS: if a comma (,) is entered in the "Rate without taxes" field via the numeric keypad: Shortcuts will return an error. The "Calculate expression" command actually expects a dot (.)</em>
 
 ---
 
