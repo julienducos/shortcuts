@@ -5,7 +5,7 @@ For any feedback, feel free to send me an email: **julien [at] jucos [dot] fr**
 
 ---
 
-**→ ~ [Battery cycles](https://www.icloud.com/shortcuts/87e11417918541df9f3c69997318760e)**
+**→ ~ [Battery cycles](https://www.icloud.com/shortcuts/87e11417918541df9f3c69997318760e)** 📱
 
 **A shortcut that lets you check the number of battery cycles on your iPhone/iPad.**
 
@@ -17,19 +17,19 @@ NB: <em>"Analytics-XX" files are only generated if you share the analysis data w
 
 ---
 
-**→ ~ [Reboot your Mac](https://www.icloud.com/shortcuts/b9df1b8720134d38a52103f5f56bd03c)**
+**→ ~ [Reboot your Mac](https://www.icloud.com/shortcuts/b9df1b8720134d38a52103f5f56bd03c)** 💻
 
 A very simple Shortcut to reboot your Mac with a keyboard shortcut (^+⌥+R in my case)
 
 ---
 
-**→ ~ [Shutdown your Mac](https://www.icloud.com/shortcuts/7d2ff3708c374747b516f896ec115fc3)**
+**→ ~ [Shutdown your Mac](https://www.icloud.com/shortcuts/7d2ff3708c374747b516f896ec115fc3)** 💻
 
 A very simple Shortcut to shutdown your Mac with a keyboard shortcut (^+⌥+Q in my case)
 
 ---
 
-**→ ~ [Rates including VAT](https://www.icloud.com/shortcuts/d3b833680c6d4c649a6fade39f3397e9)**
+**→ ~ [Rates including VAT](https://www.icloud.com/shortcuts/d3b833680c6d4c649a6fade39f3397e9)** 📱 💻
 
 This shortcut simply allows you to calculate tax including rates from a tax free rate.At the first launch, you will be asked to specify the tax rate applied in your country.You can place this shortcut as a widget on the home screen or on the left page of your iPhone/iPad or in the menu bar of macOS :)
 
@@ -37,7 +37,7 @@ NB: <em>I used a little workaround to avoid a bug in Shortcuts app on iOS/iPadOS
 
 ---
 
-**→ ~ [Add to my wishlist](https://www.icloud.com/shortcuts/aef4e276587a48668e1e7521836e863c)**
+**→ ~ [Add to my wishlist](https://www.icloud.com/shortcuts/aef4e276587a48668e1e7521836e863c)** 📱 💻
 
 With the arrival of iOS 11, a very useful feature has disappeared: the apps wishlist.
 It allowed you to save apps to be able to download them later (I used it a lot to save games to get them on my iPad, I refuse to install games on my iPhone. Also useful to wait until finances are better to acquire a paid app for example).
@@ -48,7 +48,7 @@ This shortcut allows you to save all the necessary details of an app (name, weig
 
 ---
 
-**→ ~ [MastoNewsWire](https://www.icloud.com/shortcuts/3d0d0cfeff144c2d8c24583603d10c52)**
+**→ ~ [MastoNewsWire](https://www.icloud.com/shortcuts/3d0d0cfeff144c2d8c24583603d10c52)** 📱
 
 Since Twitter decided to make its various APIs unusable, we have seen the death of many of the social network's clients. But some other apps are also losing features; it's the case of NetNewsWire (which I strongly invite you to try if you don't know it yet!).
 Indeed, until last month, this excellent RSS reader allowed you to "follow" Twitter users to get their different posts with your other news. I use it for example to follow developers whose site is not RSS compatible.
@@ -60,7 +60,7 @@ Just tap the share icon in Safari or in your favorite Mastodon client then tap "
 
 ---
 
-**→ ~ [ShortGPT](https://www.icloud.com/shortcuts/498df0617da247eb955247765489f495)**
+**→ ~ [ShortGPT](https://www.icloud.com/shortcuts/498df0617da247eb955247765489f495)** 📱 💻
 
 **Have a conversation with ChatGPT!**
 
@@ -68,7 +68,7 @@ This shortcut allows you to ask questions to ChatGPT as you would with Siri... b
 
 ---
 
-**→ ~ [whats.my.ip](https://www.icloud.com/shortcuts/bbbad575627e4c75a2821efac4f19580)**
+**→ ~ [whats.my.ip](https://www.icloud.com/shortcuts/bbbad575627e4c75a2821efac4f19580)** 📱 💻
 
 **A shortcut that allows you to get and copy your different IP addresses**
 
@@ -81,7 +81,7 @@ A workaround for these versions has been found: use the API of https//ip6.me.</e
 
 ---
 
-**→ ~ [Save an app icon from the App Store](https://www.icloud.com/shortcuts/8302c5a904f14def91317c8c378df6aa)**
+**→ ~ [Save an app icon from the App Store](https://www.icloud.com/shortcuts/8302c5a904f14def91317c8c378df6aa)** 📱 💻
 
 **A shortcut that allows you to save an app icon from the App Store**
 
